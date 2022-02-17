@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @beniwein
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me "discord"
+- 👋 Hi, I’m Benny
+- 👀 I’m interested in coding, gaming & GUI
+- 🌱 I’m currently learning how to code in html/css/js, later on maybe xml
+- 💞️ I’m looking to collaborate on github & face-to-face
+- 📫 How to reach me: 
 
 <!---
 beniwein/beniwein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
